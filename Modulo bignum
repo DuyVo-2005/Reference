@@ -1,0 +1,3 @@
+//28tech
+(a*b)%c=[(a%c)*(b%c)]%c
+with a,b is bignum
